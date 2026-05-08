@@ -3,7 +3,7 @@
     "Author": "Syrilai",
     "Name": "RP Buddy",
     "InternalName": "RpBuddy",
-    "AssemblyVersion": "0.2.4",
+    "AssemblyVersion": "0.2.4.0",
     "Description": "A tiny helper in your RP endeavours. You can read a \"short\" introduction with /rpbuddy.",
     "ApplicableVersion": "any",
     "Tags": [
